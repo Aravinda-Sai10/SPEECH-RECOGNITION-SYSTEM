@@ -1,0 +1,58 @@
+/* Full App Background */
+.stApp {
+    background: linear-gradient(to bottom right,#d0e7ea);
+}
+
+/* Title Style */
+.main-title {
+    text-align: center;
+    font-size: 3rem;
+    color: #f06a9f;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Description Style */
+.description {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #5e5e5e;
+    margin-bottom: 30px;
+}
+
+/* File Uploader Box */
+.css-1kyxreq, .stFileUploader {
+    background-color: #fff0f4;
+    border: 2px dashed #c2185b ;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+/* Primary Button Style */
+button[kind="primary"] {
+    background-color: #d81b60;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+}
+
+/* Success Output Style */
+.stAlert-success {
+    background-color: #e7ffe8;
+    border-left: 5px solid #28a745;
+}
+
+/* Warning Output Style */
+.stAlert-warning {
+    background-color: #fff8e1;
+    border-left: 5px solid #ffb300;
+}
+
+/* Error Output Style */
+.stAlert-error {
+    background-color: #ffebee;
+    border-left: 5px solid #e53935;
+}
