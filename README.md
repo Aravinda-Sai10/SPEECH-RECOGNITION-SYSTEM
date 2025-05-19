@@ -71,8 +71,8 @@ speech-recognition-app/
  2.**Assistive Tool for Students & Professionals**:
       Turn lectures, meetings, or voice memos into text notes.
 
-3. **Accessibility Enhancement**:
+3.**Accessibility Enhancement**:
      Helps hearing-impaired users understand spoken content.
 
- 4. **Prototype for Speech AI Projects**:
+4.**Prototype for Speech AI Projects**:
     A solid base to build more advanced speech-to-text or voice assistant systems.
