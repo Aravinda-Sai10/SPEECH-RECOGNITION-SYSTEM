@@ -38,7 +38,7 @@ Users can upload `.mp3` or `.wav` audio files, and the app will transcribe the s
 
 ---
 
-## 📂 FILE STRUCTURE
+##  FILE STRUCTURE
 
 ```
 speech-recognition-app/
