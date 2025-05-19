@@ -1,4 +1,19 @@
-                                 SPEECH RECOGNITION
+# SPEECH RECOGNITION SYSTEM        
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : ARVA ARAVINDA SAI
+
+*INTERN ID*: CODF219
+
+*DOMAIN*:ARTIFICIAL INTELLIGENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+
+                                            SPEECH RECOGNITION
 
 This is a simple web-based **Speech Recognition** app built with **Streamlit** and the **Google Speech-to-Text API**.  
 Users can upload `.mp3` or `.wav` audio files, and the app will transcribe the spoken content into text.
