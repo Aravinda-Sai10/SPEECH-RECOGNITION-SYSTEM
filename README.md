@@ -11,11 +11,11 @@ Users can upload `.mp3` or `.wav` audio files, and the app will transcribe the s
 -  Automatic speech recognition using `speech_recognition`  
 -  MP3 to WAV conversion using `pydub`  
 -  Google Web Speech API for transcription  
--  Clean UI with custom CSS
+-  Clean UI with CSS Styles
 
 ---
 
-# SCREENSHOTS:
+# APP PREVIEW:
 
 ![APP PREVIEW](screenshots/OUTPUT%201.png)
 # WORKING:
